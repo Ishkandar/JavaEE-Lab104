@@ -8,7 +8,7 @@
 
 3. Write a method in Java that resolves this mathematical expression where <mark>x</mark> and <mark>y</mark> are two variables preset in your code:
 
-> $$(x^2)$$ + $$((4y / 5) - x)^2$$
+> $$(x^2) + ((4y / 5) - x)^2$$
 
 ### Technical specifications and dependencies
 
